@@ -1,0 +1,7 @@
+camelot-py
+streamlit
+requests
+PyPDF2
+opencv-python-headless
+pandas
+openpyxl
