@@ -32,7 +32,7 @@ if year == 0 :
 	design_period=0
 	
 elif year != 0 :
-	design_period = ((20 + 2024) - year)
+	design_period = ((20 + 2025) - year)
 	
 
 # Calculation
