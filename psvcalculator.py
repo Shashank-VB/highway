@@ -155,7 +155,7 @@ if uploaded_file is not None:
         
         # For LANE-2
         if value4 == 0:
-                st.write(f"Lane2:0")
+                st.write(f"Lane2:NA")
         else: 
                 range_column = None
                 for col in df.columns:
@@ -178,7 +178,7 @@ if uploaded_file is not None:
 
         # For LANE-3
         if value5 == 0:
-                st.write(f"Lane3:0")
+                st.write(f"Lane3:NA")
         else: 
                 range_column = None
                 for col in df.columns:
