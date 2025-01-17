@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 # Title
-st.title("Results")
+st.title("Polished Stone Value (PSV) Calculator Results")
 
 # Input parameters
 st.sidebar.title ("Polished Stone Value (PSV) Calculator")
